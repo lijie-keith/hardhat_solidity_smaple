@@ -1,0 +1,26 @@
+# 构建产物
+build/
+
+# 缓存文件
+cache/
+
+# 环境变量文件
+.env
+
+# 日志文件
+*.log
+
+# 临时文件
+*.tmp
+
+# 依赖文件
+node_modules/
+
+# 编辑器产生的文件
+.vscode/
+.idea/    
+
+.deps/
+.states/
+.artifacts/
+.git/
